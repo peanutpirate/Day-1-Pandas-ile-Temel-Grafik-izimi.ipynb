@@ -1,2 +1,2 @@
-# Day-1-Pandas-ile-Temel-Grafik-izimi.ipynb
+# Day-1-Pandas-ile-Temel-Grafikler.ipynb
 #66daysofdata ile ilk günüm
